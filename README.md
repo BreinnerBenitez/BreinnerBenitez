@@ -3,7 +3,7 @@
 ===
 # Soy Desarrollador Junior esperando ser contratado por ti.
 ## Tecnologias
-### Java :e738:
+### Java :coffee: , Motor Myslq SGBD workbench  :dolphin:
 >estoy probnado esta *vuelta*   **gracias por estar aqui**
 >
 >>fdfdsddfsdfsf

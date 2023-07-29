@@ -38,3 +38,4 @@ firejail firefox/firefox
 esto es un comadno de linux `cd Descargas`
 
 una hola de mas
+este es un cambio para probar

@@ -1,9 +1,9 @@
 # Hola😀, Breinner Benitez te agradece por estar aqui 😀
 ##  
 ===
-# soy Desarrollador Junior esperado se contratado por ti.
+# Soy Desarrollador Junior esperando ser contratado por ti.
 ## Tecnologias
-### Java
+### Java :e738:
 >estoy probnado esta *vuelta*   **gracias por estar aqui**
 >
 >>fdfdsddfsdfsf

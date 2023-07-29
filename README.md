@@ -3,7 +3,7 @@
 > **24 años, Candelaria Valle del Cauca.**
 
 ===
-# **Desarrollador Junior esperando ser contratado por ti**.
+# **Desarrollador Junior, esperando ser contratado por ti**.
 # ***Tecnologias***:
 
 ## Java :coffee: , Motor Myslq SGBD workbench  :dolphin: 

@@ -1,12 +1,12 @@
-~~~
-# Hola😀, Breinner Benitez te agradece por estar aqui 😀
-~~~ 
+
+# **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
+
 ===
-# Soy Desarrollador Junior esperando ser contratado por ti.
-# Tecnologias:
-~~~
+# **Soy Desarrollador Junior esperando ser contratado por ti**.
+# ***Tecnologias***:
+
 ## Java :coffee: , Motor Myslq SGBD workbench  :dolphin:
-~~~
+
 >estoy probnado esta *vuelta*   **gracias por estar aqui**
 >
 >>fdfdsddfsdfsf

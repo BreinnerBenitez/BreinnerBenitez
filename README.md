@@ -42,7 +42,7 @@ Soporte a personal de empresa(puntos de venta), Instalador de software y hardwar
 tmu 220, manejo de software para clonar discos con sistemas operativo GNU/linux distro Ubuntu , configuración de equipos nuevos en 
 dominio para uso de la empresa, documentación de soportes y repuestos.
 
-__
+___
 
 
 [pagina de Linkedln](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)	

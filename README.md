@@ -8,11 +8,11 @@
 ## Java :coffee: , Motor Myslq SGBD workbench  :dolphin: 
 ## Linux Distribuciones(Debian) :penguin:
 
-> En la parte de abajo encontraras repositorios 
+> **En la parte de abajo encontraras repositorios** 
 >
->>son unos .exe que realice 
+>>**son unos .exe que realice**
 >
->  muestra lo intersado que estoy por ingresar al mercado y lo dispuesto que estoy en  seguir aprendiendo.
+> **muestra lo intersado que estoy por ingresar al mercado y lo dispuesto que estoy en  seguir aprendiendo**.
 
  =
  ___
@@ -44,7 +44,7 @@ dominio para uso de la empresa, documentación de soportes y repuestos.
 __
 [pagina de Linkedln](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)	
 
-> una ves mas gracias por tu tiempo. 
+> **una ves mas gracias, por tu tiempo**. 
 
 
 

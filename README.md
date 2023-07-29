@@ -1,6 +1,6 @@
 
 # **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
-> **24 años, Candelaria Valle del Cauca**
+> **24 años, Candelaria Valle del Cauca.**
 
 ===
 # **Desarrollador Junior esperando ser contratado por ti**.
@@ -43,9 +43,11 @@ tmu 220, manejo de software para clonar discos con sistemas operativo GNU/linux 
 dominio para uso de la empresa, documentación de soportes y repuestos.
 
 __
+
+
 [pagina de Linkedln](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)	
 
-> **una ves mas gracias, por tu tiempo**. 
+> **una ves mas, gracias por tu tiempo**. 
 
 
 

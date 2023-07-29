@@ -7,11 +7,11 @@
 
 ## Java :coffee: , Motor Myslq SGBD workbench  :dolphin:
 
->estoy probnado esta *vuelta*   **gracias por estar aqui**
+> En la parte de abajo encontraras repositorios 
 >
->>fdfdsddfsdfsf
+>>son unos .exe que realice 
 >
->  terminadno cita gfdgddg
+>  muestra lo interado que estoy por ingresar al mercado y lo dispuesto que estoy en aprender.
 
 sigo escribiendo normal 
 

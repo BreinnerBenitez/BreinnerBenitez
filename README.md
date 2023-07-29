@@ -1,6 +1,7 @@
 
 # **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
-> 24 años
+> **24 años, Candelaria Valle del Cauca**
+
 ===
 # **Desarrollador Junior esperando ser contratado por ti**.
 # ***Tecnologias***:

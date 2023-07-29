@@ -12,13 +12,13 @@
 >
 >>son unos .exe que realice 
 >
->  muestra lo interado que estoy por ingresar al mercado y lo dispuesto que estoy en aprender.
+>  muestra lo intersado que estoy por ingresar al mercado y lo dispuesto que estoy en  seguir aprendiendo.
 
-sigo escribiendo normal 
+ =
+ ___
+ # Trabajos como auxiliar de informatica 💻 
 
-* elementos no ordenados 
-   * ghffhffgdgdgdgdgdgdgdg
-   * dfsfsfsfsfsffsfsfsf
+## Inval 
 
 sigo escribiendo normal socio listas ordenadas
 

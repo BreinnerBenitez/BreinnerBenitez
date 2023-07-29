@@ -2,10 +2,11 @@
 # **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
 
 ===
-# **Soy Desarrollador Junior esperando ser contratado por ti**.
+# **Desarrollador Junior esperando ser contratado por ti**.
 # ***Tecnologias***:
 
-## Java :coffee: , Motor Myslq SGBD workbench  :dolphin:
+## Java :coffee: , Motor Myslq SGBD workbench  :dolphin: 
+## Linux Distribuciones(Debian) :penguin:
 
 > En la parte de abajo encontraras repositorios 
 >

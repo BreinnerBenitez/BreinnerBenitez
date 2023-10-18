@@ -9,11 +9,9 @@
 ## Java :coffee: , Motor Myslq SGBD workbench  :dolphin: 
 ## Linux Distribuciones(Debian) :penguin:
 
-> **En la parte de abajo encontraras repositorios** 
->
->>**son unos .exe que realice**
->
-> **muestra lo intersado que estoy por ingresar al mercado y lo dispuesto que estoy en  seguir aprendiendo**.
+ **En la parte de abajo encontraras repositorios** 
+
+**muestra lo intersado que estoy por ingresar al mercado y lo dispuesto que estoy en  seguir aprendiendo**.
 
  =
  ___

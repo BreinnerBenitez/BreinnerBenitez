@@ -1,5 +1,5 @@
 
-
+<div style="display: flex; align-items: flex-start; float: center;">
 <table>
 
 <tr>
@@ -83,6 +83,8 @@
 
 
 </tr>
+
+</div>
 
 
 

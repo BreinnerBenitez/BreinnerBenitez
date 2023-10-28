@@ -6,8 +6,48 @@
 # **Desarrollador Junior, esperando ser contratado por ti**.
 # ***Tecnologias***:
 
-## Java :coffee: , Motor Myslq SGBD workbench  :dolphin: 
-## Linux Distribuciones(Debian) :penguin:
+<style>
+#pri{
+
+width: 250px;               /* ancho del hedear*/
+/*background-color: red;*/
+text-align: center;         /* centrar*/
+margin: 15px auto;      /* grueso derecha izquierda*/
+padding: 15px;         /* letra de adentro*/
+border: 3px solid  black;
+border-radius: 10px ;   /* marco al rededor*/
+box-shadow: red 5px 5px 10px ;
+outline: 2px solid black;
+outline-offset: 5px;     /* separa el borde*/
+transform: scale();  /* scala del objeto*/
+/*transform: skew(10deg); /* en dialogar*/
+background-color: red;
+
+}
+#pri:hover{  /*seudo clase ,  */
+
+transform: rotate(5deg) ;  
+background: -webkit-linear-gradient(top,red,rgb(245, 219, 219));
+
+
+}
+
+#titulo{
+
+    font:bold 36px verdana, Geneva, sans-serif 
+    
+}
+
+
+</style>
+
+
+
+ <header id="pri"> 
+    <span id="titulo"> estilos css3</span>
+    </header>  
+
+
 
  **En la parte de abajo encontraras repositorios** 
 

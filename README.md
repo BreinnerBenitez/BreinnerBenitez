@@ -58,21 +58,41 @@
 
 </div>
 
-## GitHub Stats
-[![committers.top badge](https://user-badge.committers.top/bangladesh/seo-asif.svg)](https://user-badge.committers.top/bangladesh/seo-asif)
+ ___
+ 
+ # Trabajos como auxiliar de informatica 💻 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seo-asif&show_icons=true&locale=en&theme=transparent" alt="seo-asif" /></p>
+## Inval S.A
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seo-asif" alt="seo-asif" /></p>
+Ciudad: Palmira-Valle del cauca
+Cargo: auxiliar de sistemas ( 2 Años)
+Jefe inmediato: Andres Agusto Echeverry ( jefe de sistemas) Área: Sistemas
+Actividades:
+Soporte a personal de empresa, Instalador de software y hardware,help desk, asesor de soporte técnico , Analista de mesa de servicio, 
+soluciones de soportes en servidores , mantenimientos a equipos de cómputo en máquinas de planta y equipos de cómputo en oficinas 
+,backup de equipos de computo , backup de servidores con software ,manejo de software para volantes de nómina, eliminación de virus en 
+ataques realizados a la empresa, configuración de equipos nuevos en dominio para uso de la empresa, configuración de cámaras en 
+dispositivos autorizados.
 
-## Github Trophy
+## Gane palmira
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seo-asif)](https://github.com/ryo-ma/github-profile-trophy)
+Ciudad: Palmira-Valle del cauca
+Cargo: auxiliar de informática ( 1 año y 8 meses )
+Jefe inmediato: Guimer Lopez ( Director TI)
+Área: informática Actividades:
+Soporte a personal de empresa(puntos de venta), Instalador de software y hardware,help desk, asesor de soporte técnico
+, Analista de mesa de servicio, mantenimientos a equipos de cómputo , mantenimiento máquinas (pax s90,pda), mantenimiento a impresoras 
+tmu 220, manejo de software para clonar discos con sistemas operativo GNU/linux distro Ubuntu , configuración de equipos nuevos en 
+dominio para uso de la empresa, documentación de soportes y repuestos.
 
-<p align="center"><a target="_blank" rel="noreferrer" href="https://github-readme-stats.vercel.app/api/wakatime?username=seo-asif%22%3E" <img src="https://github-readme- 
- stats.vercel.app/api/wakatime?username=seo-asif" alt="Total time coded since Jul 07 2023" /></a></p>
+___
 
-[![ASif Mosharraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asif064)](https://github.com/seo-asif/github-readme-stats)
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="eclipse" />
+<br>
+[ click aqui pagina de Linkedln](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)	
+
+> **una ves mas, gracias por tu tiempo**.
+
 
 
 

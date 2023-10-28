@@ -1,5 +1,4 @@
-
-<div style="margin:auto;">
+<div style="display: flex; align-items: flex-start; align: center">
 <table>
 
 <tr>
@@ -84,10 +83,8 @@
 
 </tr>
 
+
+</table>
 </div>
-
-
-
-
 
 

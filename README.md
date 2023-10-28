@@ -37,7 +37,7 @@
       <br>Linux
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="html" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
       <br>html
       </td>
     <td align="center" width="96">

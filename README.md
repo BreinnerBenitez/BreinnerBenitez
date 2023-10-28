@@ -1,5 +1,5 @@
 
-<div style="display: flex; align-items: flex-start; float: center;">
+<div style="display: flex; align-items: flex-start; align: center">
 <table>
 
 <tr>

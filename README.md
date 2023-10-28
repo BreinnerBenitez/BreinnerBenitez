@@ -88,7 +88,7 @@ dominio para uso de la empresa, documentación de soportes y repuestos.
 ___
 
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="eclipse" />
-<br>
+
 [ click aqui pagina de Linkedln](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)	
 
 

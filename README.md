@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img float="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [TheExamly](https://www.theexamly.com)
 
@@ -20,7 +20,7 @@
 
 
 
-<h2>tecnologias</h2>
+<h2 style="">Tecnologias</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>

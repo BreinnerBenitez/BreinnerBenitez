@@ -1,47 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<style>
-#pri{
-
-width: 250px;               /* ancho del hedear*/
-/*background-color: red;*/
-text-align: center;         /* centrar*/
-margin: 15px auto;      /* grueso derecha izquierda*/
-padding: 15px;         /* letra de adentro*/
-border: 3px solid  black;
-border-radius: 10px ;   /* marco al rededor*/
-box-shadow: red 5px 5px 10px ;
-outline: 2px solid black;
-outline-offset: 5px;     /* separa el borde*/
-transform: scale();  /* scala del objeto*/
-/*transform: skew(10deg); /* en dialogar*/
-background-color: red;
- </head>
-}
-#pri:hover{  /*seudo clase ,  */
-
-transform: rotate(5deg) ;  
-background: -webkit-linear-gradient(top,red,rgb(245, 219, 219));
 
 
-}
+<table>
 
-#titulo{
+<tr>
 
-    font:bold 36px verdana, Geneva, sans-serif 
-    
-}
+    <td style="padding: 0px 10px; ">
 
-
-</style>
-
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+            <br><h2 style="margin-top: 3px;">java</h2>
+    </td>
 
 
- <header id="pri"> 
-    <span id="titulo"> estilos css3</span>
-    </header>  
+    <td style="padding: 0px 10px;">
+
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br><h2 style="margin-top: -5px;">Mysql</h2>
+
+
+    </td>
+
+
+    <td style="padding: 0px 10px;">
+
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+        <br><h2 style="margin-top: -5px;">linux</h2>
+
+
+    </td>
+
+
+    <td style="padding: 0px 10px;">
+
+        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="65" height="65" />
+        <br><h2 style="margin-top: -5px;">html</h2>
+
+    </td>
+
+
+    <td style="padding: 0px 10px;">
+
+        <img src="https://skillicons.dev/icons?i=css" alt="css" width="65" height="65" />
+        <br><h2 style="margin-top: -5px;">css</h2>
+
+    </td>
+
+
+</tr>
+
+<tr>
+
+    <td style="padding: 0px 10px;">
+     
+        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="65" height="65" />
+         <br><h2 style="margin-top: -5px;">vscode</h2>
+ 
+     </td>
+ 
+ 
+ 
+     <td style="padding: 0px 10px;">
+      
+         <img src="https://skillicons.dev/icons?i=eclipse" alt="elipse" width="65" height="65" />
+          <br><h2 style="margin-top: -5px;">eclipse</h2>
+  
+      </td>
+ 
+
+      <td style="padding: 0px 10px;">
+      
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="html5" width="65" height="65" />
+         <br><h2 style="margin-top: -5px;">Git</h2>
+ 
+     </td>
+
+
+     <td style="padding: 0px 10px;">
+      
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+         <br><h2 style="margin-top: -5px;">Github</h2>
+ 
+     </td>
+
+
+</tr>
+
+
 
 # **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
 > **24 años, Candelaria Valle del Cauca.**

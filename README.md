@@ -5,7 +5,7 @@
 ===
 # **Desarrollador Junior, esperando ser contratado por ti**.
 # ***Tecnologias***:
-
+<head>
 <style>
 #pri{
 
@@ -22,7 +22,7 @@ outline-offset: 5px;     /* separa el borde*/
 transform: scale();  /* scala del objeto*/
 /*transform: skew(10deg); /* en dialogar*/
 background-color: red;
-
+ </head>
 }
 #pri:hover{  /*seudo clase ,  */
 

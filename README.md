@@ -1,10 +1,5 @@
 
-# **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
-> **24 años, Candelaria Valle del Cauca.**
 
-===
-# **Desarrollador Junior, esperando ser contratado por ti**.
-# ***Tecnologias***:
 <head>
 <style>
 #pri{
@@ -47,7 +42,12 @@ background: -webkit-linear-gradient(top,red,rgb(245, 219, 219));
     <span id="titulo"> estilos css3</span>
     </header>  
 
+# **Hola😀, Breinner Benitez te agradece por estar aqui** 😀
+> **24 años, Candelaria Valle del Cauca.**
 
+===
+# **Desarrollador Junior, esperando ser contratado por ti**.
+# ***Tecnologias***:
 
  **En la parte de abajo encontraras repositorios** 
 

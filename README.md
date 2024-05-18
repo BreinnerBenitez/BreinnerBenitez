@@ -9,7 +9,7 @@
 
 
 
-<h2 style="">Tecnologias</h2>
+<h2 style=""> Conocimiento en Tecnologias: </h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>

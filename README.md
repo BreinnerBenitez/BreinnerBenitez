@@ -74,28 +74,33 @@
  
  # Trabajos como auxiliar de informatica 💻 
 
-## Inval S.A
-
-Ciudad: Palmira-Valle del cauca
-Cargo: auxiliar de sistemas ( 2 Años)
-Jefe inmediato: Andres Agusto Echeverry ( jefe de sistemas) Área: Sistemas
-Actividades:
-Soporte a personal de empresa, Instalador de software y hardware,help desk, asesor de soporte técnico , Analista de mesa de servicio, 
-soluciones de soportes en servidores , mantenimientos a equipos de cómputo en máquinas de planta y equipos de cómputo en oficinas 
-,backup de equipos de computo , backup de servidores con software ,manejo de software para volantes de nómina, eliminación de virus en 
-ataques realizados a la empresa, configuración de equipos nuevos en dominio para uso de la empresa, configuración de cámaras en 
-dispositivos autorizados.
 
 ## Gane palmira
 
-Ciudad: Palmira-Valle del cauca
-Cargo: auxiliar de informática ( 1 año y 8 meses )
-Jefe inmediato: Guimer Lopez ( Director TI)
-Área: informática Actividades:
-Soporte a personal de empresa(puntos de venta), Instalador de software y hardware,help desk, asesor de soporte técnico
-, Analista de mesa de servicio, mantenimientos a equipos de cómputo , mantenimiento máquinas (pax s90,pda), mantenimiento a impresoras 
-tmu 220, manejo de software para clonar discos con sistemas operativo GNU/linux distro Ubuntu , configuración de equipos nuevos en 
-dominio para uso de la empresa, documentación de soportes y repuestos.
+Auxiliar de Informática
+• Soporte técnico a usuarios en puntos de venta y áreas administrativas,garantizando la continuidad operativa de los sistemas.
+• Participación en el desarrollo y mantenimiento de aplicaciones internas en Java
+,apoyando la implementación de la lógica de negocio.
+•Implementación de servicios REST básicos con Spring Boot para operacionesCRUD.
+•Integración de aplicaciones con bases de datos MySQL utilizando JPA.
+•Pruebas manuales de APIs mediante Postman, insomnia y validación derespuestas HTTP.
+•Gestión de respaldos, recuperación de datos y documentación técnica deincidencias.
+•Automatización de tareas operativas y monitoreo básico de servidores Linux.
+
+
+
+## Inval S.A
+
+Auxiliar de Informática
+• Instalación, configuración y mantenimiento de equipos de cómputo y servidores.
+• Atención de incidentes mediante mesa de ayuda y soporte a usuarios.
+• Apoyo en el desarrollo y ajuste de soluciones de software internas en Java
+• Colaboración en la implementación de funcionalidades backendpara sistemas denómina y control operativo.
+• Manejo de bases de datos MySQL y SQL Server para consultas y validación deinformación.
+• Respaldos programados de información y soporte a la infraestructura tecnológica.
+• Configuración de dispositivos de red y cámaras internas.
+
+
 
 ___
 

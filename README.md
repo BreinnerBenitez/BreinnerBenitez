@@ -95,7 +95,7 @@ Auxiliar de Informática
 • Instalación, configuración y mantenimiento de equipos de cómputo y servidores.
 • Atención de incidentes mediante mesa de ayuda y soporte a usuarios.
 • Apoyo en el desarrollo y ajuste de soluciones de software internas en Java
-• Colaboración en la implementación de funcionalidades backendpara sistemas denómina y control operativo.
+• Colaboración en la implementación de funcionalidades backend para sistemas denómina y control operativo.
 • Manejo de bases de datos MySQL y SQL Server para consultas y validación deinformación.
 • Respaldos programados de información y soporte a la infraestructura tecnológica.
 • Configuración de dispositivos de red y cámaras internas.
